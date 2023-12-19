@@ -1,0 +1,822 @@
+# depslib dependency file v1.0
+1618393144 source:d:\research new\dscode\dense\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1551138132 d:\research new\dscode\dense\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 d:\research new\dscode\dense\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 d:\research new\dscode\dense\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 d:\research new\dscode\dense\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1551138132 d:\research new\dscode\dense\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1551138132 d:\research new\dscode\dense\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1551138132 d:\research new\dscode\dense\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1551138132 source:d:\research new\dscode\dense\det.cpp
+	"DET.h"
+
+1551138132 source:d:\research new\dscode\dense\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 source:d:\research new\dscode\dense\graphisomor.cpp
+	"GraphIsomor.h"
+
+1551138132 source:d:\research new\dscode\dense\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:d:\research new\dscode\dense\timer.cpp
+	"Timer.h"
+
+1618394846 source:d:\research new\dscode\dense\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 source:d:\research new\modetcode\det.cpp
+	"DET.h"
+
+1551138132 d:\research new\modetcode\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1551138132 d:\research new\modetcode\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 d:\research new\modetcode\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 d:\research new\modetcode\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 d:\research new\modetcode\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618421547 source:d:\research new\modetcode\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 d:\research new\modetcode\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1618394846 source:d:\research new\modetcode\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 d:\research new\modetcode\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619409243 source:d:\research new\modetcode\graphisomor.cpp
+	"GraphIsomor.h"
+
+1619419067 source:d:\research new\modetcode\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1551138132 source:d:\research new\modetcode\nauty\naugraph.c
+	"nauty.h"
+
+1551138132 source:d:\research new\modetcode\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551138132 source:d:\research new\modetcode\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1618421335 source:d:\research new\modetcode\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:d:\research new\modetcode\timer.cpp
+	"Timer.h"
+
+1618453104 d:\research new\modetcode\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1619492832 source:d:\research new\modetcode\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1551138132 source:d:\research new\procop\det.cpp
+	"DET.h"
+
+1551138132 d:\research new\procop\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619802830 d:\research new\procop\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 d:\research new\procop\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 d:\research new\procop\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 d:\research new\procop\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618421547 source:d:\research new\procop\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 d:\research new\procop\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619894204 source:d:\research new\procop\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 d:\research new\procop\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619409243 source:d:\research new\procop\graphisomor.cpp
+	"GraphIsomor.h"
+
+1551138132 source:d:\research new\procop\nauty\naugraph.c
+	"nauty.h"
+
+1551138132 source:d:\research new\procop\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551138132 source:d:\research new\procop\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1619697241 source:d:\research new\procop\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1619687682 d:\research new\procop\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1618421335 source:d:\research new\procop\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:d:\research new\procop\timer.cpp
+	"Timer.h"
+
+1619932256 source:d:\research new\procop\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<fstream>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1551138132 source:d:\research new\procop_code\procop\det.cpp
+	"DET.h"
+
+1551138132 d:\research new\procop_code\procop\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1620197266 d:\research new\procop_code\procop\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 d:\research new\procop_code\procop\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 d:\research new\procop_code\procop\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 d:\research new\procop_code\procop\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618421547 source:d:\research new\procop_code\procop\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 d:\research new\procop_code\procop\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619894204 source:d:\research new\procop_code\procop\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 d:\research new\procop_code\procop\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619409243 source:d:\research new\procop_code\procop\graphisomor.cpp
+	"GraphIsomor.h"
+
+1620828210 source:d:\research new\procop_code\procop\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<fstream>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1619687682 d:\research new\procop_code\procop\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1551138132 source:d:\research new\procop_code\procop\nauty\naugraph.c
+	"nauty.h"
+
+1551138132 source:d:\research new\procop_code\procop\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551138132 source:d:\research new\procop_code\procop\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1619697241 source:d:\research new\procop_code\procop\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1618421335 source:d:\research new\procop_code\procop\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:d:\research new\procop_code\procop\timer.cpp
+	"Timer.h"
+
+1551138132 source:d:\researchnew\paper1_code\procop\procop_code\procop\det.cpp
+	"DET.h"
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1620197266 d:\researchnew\paper1_code\procop\procop_code\procop\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618421547 source:d:\researchnew\paper1_code\procop\procop_code\procop\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619894204 source:d:\researchnew\paper1_code\procop\procop_code\procop\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 d:\researchnew\paper1_code\procop\procop_code\procop\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619409243 source:d:\researchnew\paper1_code\procop\procop_code\procop\graphisomor.cpp
+	"GraphIsomor.h"
+
+1620839375 source:d:\researchnew\paper1_code\procop\procop_code\procop\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<fstream>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1619687682 d:\researchnew\paper1_code\procop\procop_code\procop\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1551138132 source:d:\researchnew\paper1_code\procop\procop_code\procop\nauty\naugraph.c
+	"nauty.h"
+
+1551138132 source:d:\researchnew\paper1_code\procop\procop_code\procop\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551138132 source:d:\researchnew\paper1_code\procop\procop_code\procop\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1619697241 source:d:\researchnew\paper1_code\procop\procop_code\procop\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1618421335 source:d:\researchnew\paper1_code\procop\procop_code\procop\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:d:\researchnew\paper1_code\procop\procop_code\procop\timer.cpp
+	"Timer.h"
+
+1551138132 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\det.cpp
+	"DET.h"
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1620197266 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618421547 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619894204 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551138132 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619409243 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\graphisomor.cpp
+	"GraphIsomor.h"
+
+1620839375 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<fstream>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1619687682 c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1551138132 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\nauty\naugraph.c
+	"nauty.h"
+
+1551138132 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551138132 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1619697241 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1618421335 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551138132 source:c:\users\sp\desktop\thesis code\chap3-procode\procop\procop\timer.cpp
+	"Timer.h"
+
+1551186732 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\det.cpp
+	"DET.h"
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\det.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1620245868 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\graph.h
+	<stdio.h>
+	<vector>
+	<list>
+	<map>
+	<iostream>
+	<algorithm>
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\graphisomor.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"nauty/nauty.h"
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\nauty\nauty.h
+	"defs.h"
+	"system.h"
+	"bs.h"
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\subgraphtree.h
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+	"Graph.h"
+	"GraphIsomor.h"
+
+1618470148 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\expansiontree.cpp
+	"ExpansionTree.h"
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\expansiontree.h
+	<vector>
+	<list>
+	<utility>
+	"Graph.h"
+	"GraphIsomor.h"
+	"SubgraphTree.h"
+
+1619942806 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\graph.cpp
+	"Graph.h"
+	"Timer.h"
+
+1551186732 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\timer.h
+	<sys/time.h>
+	<ctime>
+	<iostream>
+
+1619457844 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\graphisomor.cpp
+	"GraphIsomor.h"
+
+1620887976 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\main.cpp
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<cmath>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<fstream>
+	"Graph.h"
+	"Subgraph.h"
+	"GraphIsomor.h"
+	"Timer.h"
+	"SubgraphTree.h"
+	"ExpansionTree.h"
+	"DET.h"
+
+1619736284 d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\subgraph.h
+	"Graph.h"
+	"GraphIsomor.h"
+	<vector>
+	<stdio.h>
+	<string>
+	<map>
+	<iostream>
+
+1551186732 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\nauty\naugraph.c
+	"nauty.h"
+
+1551186732 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\nauty\nautil.c
+	"nauty.h"
+	"io.e"
+
+1551186732 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\nauty\nauty.c
+	"nauty.h"
+	"cleanup.e"
+
+1619745842 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\subgraph.cpp
+	"Subgraph.h"
+	<fstream>
+	<iostream>
+	<cstring>
+	<vector>
+
+1618469936 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\subgraphtree.cpp
+	"SubgraphTree.h"
+
+1551186732 source:d:\complexprediction\tushar_phd\thesis code\chap3-procode\procop\procop\timer.cpp
+	"Timer.h"
+
